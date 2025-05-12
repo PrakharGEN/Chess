@@ -16,7 +16,7 @@ A browser-based **Chess game** built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-[chess-board Image](https://github.com/user-attachments/assets/8552ac49-5e43-4be9-9068-38ecf265c2d6)
+[chess-board Image_2](https://github.com/user-attachments/assets/8552ac49-5e43-4be9-9068-38ecf265c2d6)
 
 ---
 ## 🛠️ Tech Stack
