@@ -2,8 +2,6 @@
 
 A browser-based **Chess game** built using **HTML**, **CSS**, and **JavaScript**. Play against a friend on the same device with a smooth, interactive UI and rule-compliant mechanics.
 
-[chess-board Image](https://github.com/user-attachments/assets/8552ac49-5e43-4be9-9068-38ecf265c2d6)
-
 ---
 ![chess_board_Image](https://github.com/user-attachments/assets/c465e4ac-f6f1-46a7-bafd-80c617b15d82)
 
@@ -18,6 +16,9 @@ A browser-based **Chess game** built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
+[chess-board Image](https://github.com/user-attachments/assets/8552ac49-5e43-4be9-9068-38ecf265c2d6)
+
+---
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure and layout  
